@@ -1,0 +1,1 @@
+Estou fazendo alguns exercicios em python com o laço de repetição, por enquanto estou com dificuldades 
