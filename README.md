@@ -18,4 +18,4 @@
  
  ## 📧 Conecte-se Comigo
  
- * [Meu LinkedIn](link-para-seu-linkedin)
+ * [Meu LinkedIn]([link-para-seu-linkedin](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/))
